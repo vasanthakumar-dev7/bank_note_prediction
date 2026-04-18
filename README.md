@@ -51,7 +51,9 @@ The model takes the following input features:
 
 ## How to Run
 git clone https://github.com/vasanthakumar-dev7/bank_note_prediction
+
 cd bank_note_prediction
+
 python model.py
 
 
